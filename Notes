@@ -1,1 +1,12 @@
 link for arquillian setup : https://docs.jboss.org/arquillian/reference/1.0.0.Alpha1/en-US/html_single/
+
+###############################
+###### Reuirements ############
+###############################
+
+1- All CASH inflows
+2- All Cash outflows
+3- Dates on every cash inflow and cash outflow
+4- Show balance on any specific date
+
+######################################
